@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: demoapp
-  name: demoapp
+  host: Demowebapp
+  name: Demowebapp
   path: webStarterApp.war
   domain: mybluemix.net
   instances: 1
