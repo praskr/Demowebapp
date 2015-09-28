@@ -17,7 +17,7 @@ public class HelloResource {
 		// String envServices = System.getenv("VCAP_SERVICES");
 		// JSONObject sysEnv = new JSONObject(System.getenv());
 		
-		return "sadfdsfsdf Prashanth1!";
+		return "Hi Prashanth1!";
 
 	}
 }
