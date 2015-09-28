@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: pkr
-  name: pkr
+  host: demoapp
+  name: demoapp
   path: webStarterApp.war
   domain: mybluemix.net
   instances: 1
